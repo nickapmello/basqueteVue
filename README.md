@@ -1,29 +1,4 @@
 # basqueteVue
 
-This template should help get you started developing with Vue 3 in Vite.
+Este projeto é uma aplicação Vue 3 desenvolvida para gerenciar uma lista de jogadores de basquete. A aplicação permite adicionar jogadores à lista e removê-los conforme necessário. Este é um exemplo prático de como você pode criar um componente personalizado no Vue 3 para gerenciar estados e eventos de usuário.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
